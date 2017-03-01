@@ -16,6 +16,12 @@ To run the file :- Kindly make the following changes-
 Note:- Test Images are 1-14.jpg
        Training image is 15.jpg
        
+Important:- Due to the nature of the pen, the segmented pen only includes the blue part of the pen shown in the images.
+The real world size of the blue part only is 11.87 cm.
+As such the best accuracy we have obtained among the test images is on 15.jpg, the length came up to 11.84 cm. i.e a 99.97% Accuracy.
+       
 The program will run on Matlab 2015+. 
+
+Thank You
 
 
